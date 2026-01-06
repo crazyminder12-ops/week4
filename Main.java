@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    static Scanner sc = new Scanner(System.in);
-    static ArrayList<Product> products = new ArrayList<>();
+    Scanner sc = new Scanner(System.in);
+    ArrayList<Product> products = new ArrayList<>();
 
     public static void main(String[] args) {
 
